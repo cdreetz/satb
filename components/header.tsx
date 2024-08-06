@@ -21,7 +21,7 @@ export default function Header() {
             <Link href="/about" passHref>
               <Button variant="ghost">About</Button>
             </Link>
-            <a href="https://github.com/cdreetz" target='_blank' rel="noopener noreferrer">
+            <a href="https://github.com/cdreetz/satb" target='_blank' rel="noopener noreferrer">
               <Button variant="outline" size="icon">
                 <Github className='h-5 w-5' />
               </Button>
